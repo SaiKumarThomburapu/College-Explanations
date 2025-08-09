@@ -1,0 +1,101 @@
+Date,Category,Product,Quantity,Price,Sales
+2024-03-10,Beauty,Shampoo,9,780.33,7022.97
+2024-06-17,Clothing,Jacket,9,138.95,1250.55
+2024-04-09,Electronics,Headphones,9,1545.66,13910.94
+2024-01-09,Electronics,Headphones,10,796.61,7966.1
+2024-05-02,Electronics,Laptop,9,1492.89,13436.01
+2024-02-25,Beauty,Face Cream,2,532.71,1065.42
+2024-01-22,Clothing,T-Shirt,6,1657.89,9947.34
+2024-02-24,Clothing,Jacket,8,1282.21,10257.68
+2024-07-17,Clothing,Jeans,1,634.88,634.88
+2024-01-04,Beauty,Face Cream,3,1020.02,3060.06
+2024-04-02,Electronics,Laptop,5,712.23,3561.15
+2024-05-19,Electronics,Laptop,4,1581.5,6326.0
+2024-05-06,Books,Novel,3,639.54,1918.62
+2024-03-03,Clothing,Jacket,7,1086.47,7605.29
+2024-07-07,Groceries,Wheat Flour,7,1642.01,11494.07
+2024-05-01,Books,Novel,3,1461.3,4383.9
+2024-03-12,Electronics,Smartphone,4,1519.18,6076.72
+2024-04-16,Beauty,Face Cream,4,1973.1,7892.4
+2024-06-20,Books,Magazine,3,1934.21,5802.63
+2024-05-20,Electronics,Headphones,7,337.79,2364.53
+2024-01-07,Groceries,Eggs,7,1306.58,9146.06
+2024-04-27,Books,Magazine,6,144.82,868.92
+2024-07-18,Books,Novel,2,685.72,1371.44
+2024-05-30,Electronics,Smartphone,4,1828.12,7312.48
+2024-04-09,Electronics,Laptop,4,1705.19,6820.76
+2024-07-10,Groceries,Wheat Flour,7,274.35,1920.45
+2024-05-24,Clothing,Jacket,1,1541.28,1541.28
+2024-03-14,Groceries,Wheat Flour,9,1386.54,12478.86
+2024-04-16,Books,Textbook,10,1940.86,19408.6
+2024-02-11,Electronics,Smartphone,3,1687.2,5061.6
+2024-03-21,Groceries,Wheat Flour,9,1041.91,9377.19
+2024-04-13,Beauty,Perfume,7,1208.28,8457.96
+2024-02-08,Clothing,Jacket,8,1106.61,8852.88
+2024-03-09,Groceries,Milk,7,1036.29,7254.03
+2024-03-26,Groceries,Rice,5,1233.48,6167.4
+2024-01-24,Clothing,Dress,5,1675.32,8376.6
+2024-05-30,Electronics,Headphones,10,1165.66,11656.6
+2024-06-06,Clothing,T-Shirt,1,1811.72,1811.72
+2024-01-10,Clothing,Jeans,8,725.15,5801.2
+2024-01-01,Books,Comics,8,361.18,2889.44
+2024-07-03,Clothing,Dress,1,1941.66,1941.66
+2024-03-26,Clothing,T-Shirt,5,1192.37,5961.85
+2024-06-01,Beauty,Perfume,3,196.79,590.37
+2024-03-16,Beauty,Shampoo,8,107.96,863.68
+2024-03-05,Clothing,T-Shirt,6,835.32,5011.92
+2024-05-10,Clothing,Jeans,6,1123.42,6740.52
+2024-01-30,Books,Magazine,4,891.11,3564.44
+2024-03-21,Beauty,Perfume,2,1546.73,3093.46
+2024-05-26,Groceries,Eggs,6,1145.46,6872.76
+2024-04-04,Clothing,T-Shirt,9,1753.21,15778.89
+2024-01-02,Clothing,Jeans,8,1304.88,10439.04
+2024-03-02,Books,Magazine,4,719.1,2876.4
+2024-01-04,Electronics,Camera,7,636.76,4457.32
+2024-02-19,Groceries,Rice,9,397.42,3576.78
+2024-03-10,Groceries,Milk,3,800.18,2400.54
+2024-02-22,Clothing,Jeans,3,1843.22,5529.66
+2024-03-27,Clothing,Jacket,1,273.82,273.82
+2024-04-14,Electronics,Headphones,5,1278.5,6392.5
+2024-02-14,Groceries,Wheat Flour,10,994.87,9948.7
+2024-06-18,Books,Textbook,4,1784.36,7137.44
+2024-05-21,Electronics,Laptop,1,1721.03,1721.03
+2024-06-19,Books,Textbook,3,138.87,416.61
+2024-02-26,Books,Magazine,7,779.74,5458.18
+2024-06-20,Clothing,Jeans,1,1674.07,1674.07
+2024-01-28,Clothing,Jeans,5,1672.66,8363.3
+2024-01-04,Books,Comics,2,1502.62,3005.24
+2024-05-02,Clothing,Dress,2,978.62,1957.24
+2024-03-20,Electronics,Laptop,8,115.37,922.96
+2024-05-19,Clothing,Jeans,7,948.38,6638.66
+2024-07-06,Electronics,Smartphone,9,470.23,4232.07
+2024-02-20,Electronics,Laptop,6,963.86,5783.16
+2024-03-13,Clothing,Dress,6,964.5,5787.0
+2024-02-16,Clothing,Jacket,7,762.7,5338.9
+2024-06-17,Electronics,Camera,6,982.22,5893.32
+2024-07-09,Clothing,Jeans,5,704.8,3524.0
+2024-05-15,Books,Magazine,4,477.76,1911.04
+2024-03-14,Groceries,Milk,8,453.08,3624.64
+2024-04-20,Groceries,Milk,6,128.36,770.16
+2024-05-25,Clothing,Jeans,6,1945.59,11673.54
+2024-04-13,Groceries,Milk,4,552.78,2211.12
+2024-07-12,Books,Magazine,1,1903.06,1903.06
+2024-03-21,Beauty,Face Cream,2,1932.43,3864.86
+2024-01-23,Clothing,T-Shirt,8,1306.42,10451.36
+2024-06-08,Clothing,Jacket,1,400.3,400.3
+2024-06-29,Clothing,T-Shirt,3,1918.99,5756.97
+2024-02-17,Groceries,Eggs,4,221.26,885.04
+2024-06-28,Books,Novel,1,1417.72,1417.72
+2024-06-19,Beauty,Shampoo,5,200.33,1001.65
+2024-03-06,Beauty,Shampoo,2,121.25,242.5
+2024-01-15,Clothing,T-Shirt,9,643.02,5787.18
+2024-06-17,Electronics,Camera,5,1828.14,9140.7
+2024-02-03,Clothing,Jeans,5,1785.56,8927.8
+2024-07-16,Books,Textbook,3,1404.74,4214.22
+2024-04-24,Beauty,Perfume,3,511.85,1535.55
+2024-07-05,Books,Textbook,7,1281.26,8968.82
+2024-01-08,Electronics,Camera,7,998.23,6987.61
+2024-05-08,Books,Magazine,6,1472.33,8833.98
+2024-02-28,Clothing,Dress,1,1655.42,1655.42
+2024-06-25,Groceries,Wheat Flour,1,514.31,514.31
+2024-03-29,Clothing,Jeans,9,1990.9,17918.1
